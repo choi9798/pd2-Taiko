@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/menu_bg.jpeg</file>
+        <file>img/bg.png</file>
+        <file>img/red_note.png</file>
+        <file>img/blue_note.png</file>
+        <file>img/drum.png</file>
+        <file>img/resultbg_clear.png</file>
+        <file>img/blue_note_big.png</file>
+        <file>img/red_note_big.png</file>
+        <file>img/ka.wav</file>
+        <file>img/dong.wav</file>
+    </qresource>
+</RCC>
