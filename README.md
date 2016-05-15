@@ -1,3 +1,3 @@
 # pd2-Taiko
 
-All the requried functions are excutable
+All of the requried functions are excutable
